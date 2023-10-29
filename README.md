@@ -5,8 +5,11 @@
 combo.txt - This is where you put your combolist in the user:pass format.
 
 checker-proxyless.py - This is the main checker script.
+
 data.py - This is just storage for some constant variables we need to reference.
+
 display_summary.py - This script displays a summary of the current checked accounts, including skin count & rank.
+
 filter.py - This script allows you  to filter all the checked account data by a couple of categories, like ban status and region.
 
 all_accounts_data.json - This is where all the checked account data is stored.

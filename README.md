@@ -1,5 +1,7 @@
 # Valorant-Account-Checker
 
+![image](https://github.com/OfficialProtonDev/Valorant-Account-Checker/assets/98558514/d10f123f-08d1-4cf1-9be1-377770576ed3)
+
 # Contents:
 
 combo.txt - This is where you put your combolist in the user:pass format.

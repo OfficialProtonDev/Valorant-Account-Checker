@@ -34,7 +34,7 @@
 - This is a **PROXYLESS** checker, therefore it will be slower than other checkers that you need paid proxies for.
 - Even though it's proxyless, it is setup so you should never run into rate limits. But you can also use a VPN.
 - If you are having problems with the summary or filtering, please ensure that there is a "[" on line 1 of all_accounts_data.json.
-- These scripts are for EDUCATIONAL PURPOSES ONLY, I do not condone the use of these to check leaked hacked accounts, but rather for reference on how to perform web scraping with python.
+- These scripts are for **EDUCATIONAL PURPOSES ONLY**, I do not condone the use of these to check leaked hacked accounts, but rather for reference on how to perform web scraping with python.
 
 # Credits:
 
